@@ -4,7 +4,7 @@ description: to be written
 
 [View Demo here](https://madhuri-chitikela.github.io/review-carousel/)
 
-<img src="docs/Counter.png" height="500" />
+<img src="docs/Capture1.png" height="500" />
 
 ## Tech stack
 

@@ -11,7 +11,7 @@ hr {
     border: 2px solid cyan;
     margin: 0 500px;
 }
-img {
+.carousel-img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
