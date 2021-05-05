@@ -1,4 +1,4 @@
-# Counter application
+# Review-Carousel application
 
 description: to be written
 
